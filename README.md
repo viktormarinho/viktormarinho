@@ -1,8 +1,12 @@
-# Bem-vindo ao meu perfil
+# Welcome
+
+#### Currently working at Robert Bosch GmbH
+#### Learning new things everyday! 🤠
 
 <div>
   <a href="https://github.com/viktormarinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viktormarinho&show_icons=true&theme=tokyonight">
+<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktormarinho&layout=compact&theme=tokyonight">
     </div>
   
@@ -16,10 +20,7 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  
   </div>
-  
-  ---
   
   
 
