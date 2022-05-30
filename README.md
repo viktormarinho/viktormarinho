@@ -9,7 +9,6 @@
 <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktormarinho&layout=compact&theme=tokyonight">
     </div>
-  ![](https://komarev.com/ghpvc/?username=viktormarinho&color=green)
   
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
   <br>
