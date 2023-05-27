@@ -6,7 +6,7 @@ I ❤️:
 - Typescript
 - Web Development
 - Systems Architecture
-- Cloud and Serverless
+- Cloud Solutions
 - Crafting useful solutions for real problems
 
 Curious & learning sometimes about:
